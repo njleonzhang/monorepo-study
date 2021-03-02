@@ -1,0 +1,22 @@
+{
+  "name": "leon-mono-2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "章鹏程 <scream3616@sina.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/leon-mono-2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
