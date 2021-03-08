@@ -1,6 +1,6 @@
 {
   "name": "leon-mono-1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "章鹏程 <scream3616@sina.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "leon-mono-2": "^1.0.1"
+    "leon-mono-2": "^1.0.2"
   }
 }
