@@ -18,5 +18,8 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "leon-mono-2": "^1.0.0"
   }
 }
