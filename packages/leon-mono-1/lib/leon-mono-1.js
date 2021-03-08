@@ -8,3 +8,5 @@ function leonMono1() {
     // TODO
     leonMono2()
 }
+
+leonMono1()
